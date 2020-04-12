@@ -1,0 +1,7 @@
+Greater London          8,173,941
+West Midlands           2,736,460
+Greater Manchester      2,682,528
+West Yorkshire          2,226,058
+Merseyside              1,381,189
+South Yorkshire         1,343,601
+Tyne & Wear             1,104,825
